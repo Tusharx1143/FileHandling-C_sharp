@@ -1,0 +1,34 @@
+D:\MCA 31\Web Tech II\FileHandling\bin\Debug\net6.0-windows\FileHandling.exe
+D:\MCA 31\Web Tech II\FileHandling\bin\Debug\net6.0-windows\FileHandling.deps.json
+D:\MCA 31\Web Tech II\FileHandling\bin\Debug\net6.0-windows\FileHandling.runtimeconfig.json
+D:\MCA 31\Web Tech II\FileHandling\bin\Debug\net6.0-windows\FileHandling.dll
+D:\MCA 31\Web Tech II\FileHandling\bin\Debug\net6.0-windows\FileHandling.pdb
+D:\MCA 31\Web Tech II\FileHandling\obj\Debug\net6.0-windows\FileHandling.csproj.AssemblyReference.cache
+D:\MCA 31\Web Tech II\FileHandling\obj\Debug\net6.0-windows\FileHandling.Form1.resources
+D:\MCA 31\Web Tech II\FileHandling\obj\Debug\net6.0-windows\FileHandling.csproj.GenerateResource.cache
+D:\MCA 31\Web Tech II\FileHandling\obj\Debug\net6.0-windows\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\MCA 31\Web Tech II\FileHandling\obj\Debug\net6.0-windows\FileHandling.AssemblyInfoInputs.cache
+D:\MCA 31\Web Tech II\FileHandling\obj\Debug\net6.0-windows\FileHandling.AssemblyInfo.cs
+D:\MCA 31\Web Tech II\FileHandling\obj\Debug\net6.0-windows\FileHandling.csproj.CoreCompileInputs.cache
+D:\MCA 31\Web Tech II\FileHandling\obj\Debug\net6.0-windows\FileHandling.dll
+D:\MCA 31\Web Tech II\FileHandling\obj\Debug\net6.0-windows\refint\FileHandling.dll
+D:\MCA 31\Web Tech II\FileHandling\obj\Debug\net6.0-windows\FileHandling.pdb
+D:\MCA 31\Web Tech II\FileHandling\obj\Debug\net6.0-windows\FileHandling.genruntimeconfig.cache
+D:\MCA 31\Web Tech II\FileHandling\obj\Debug\net6.0-windows\ref\FileHandling.dll
+E:\MCA\WEB TECH II\FileHandling\obj\Debug\net6.0-windows\FileHandling.csproj.AssemblyReference.cache
+E:\MCA\WEB TECH II\FileHandling\obj\Debug\net6.0-windows\FileHandling.Form1.resources
+E:\MCA\WEB TECH II\FileHandling\obj\Debug\net6.0-windows\FileHandling.csproj.GenerateResource.cache
+E:\MCA\WEB TECH II\FileHandling\obj\Debug\net6.0-windows\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+E:\MCA\WEB TECH II\FileHandling\obj\Debug\net6.0-windows\FileHandling.AssemblyInfoInputs.cache
+E:\MCA\WEB TECH II\FileHandling\obj\Debug\net6.0-windows\FileHandling.AssemblyInfo.cs
+E:\MCA\WEB TECH II\FileHandling\obj\Debug\net6.0-windows\FileHandling.csproj.CoreCompileInputs.cache
+E:\MCA\WEB TECH II\FileHandling\obj\Debug\net6.0-windows\FileHandling.dll
+E:\MCA\WEB TECH II\FileHandling\obj\Debug\net6.0-windows\refint\FileHandling.dll
+E:\MCA\WEB TECH II\FileHandling\obj\Debug\net6.0-windows\FileHandling.pdb
+E:\MCA\WEB TECH II\FileHandling\bin\Debug\net6.0-windows\FileHandling.exe
+E:\MCA\WEB TECH II\FileHandling\bin\Debug\net6.0-windows\FileHandling.deps.json
+E:\MCA\WEB TECH II\FileHandling\bin\Debug\net6.0-windows\FileHandling.runtimeconfig.json
+E:\MCA\WEB TECH II\FileHandling\bin\Debug\net6.0-windows\FileHandling.dll
+E:\MCA\WEB TECH II\FileHandling\bin\Debug\net6.0-windows\FileHandling.pdb
+E:\MCA\WEB TECH II\FileHandling\obj\Debug\net6.0-windows\FileHandling.genruntimeconfig.cache
+E:\MCA\WEB TECH II\FileHandling\obj\Debug\net6.0-windows\ref\FileHandling.dll
